@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "420468495799",
+    "project_id": "nadchodzace-wydarzenia",
+    "storage_bucket": "nadchodzace-wydarzenia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420468495799:android:db17a031246bfab0b40432",
+        "android_client_info": {
+          "package_name": "com.jakubapola.cantwait28"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420468495799-55qp7pfiag9rsca6e4fmnmrodb5jn3rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIVBxVPKRjaOE98atrX167BlhJXFgOQxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420468495799-55qp7pfiag9rsca6e4fmnmrodb5jn3rh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

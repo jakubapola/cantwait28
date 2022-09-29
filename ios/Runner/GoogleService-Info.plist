@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>420468495799-01m65k2va4qgqu4o5t4fve993itqtnbt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.420468495799-01m65k2va4qgqu4o5t4fve993itqtnbt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyALf6Xml08iDCXEVQ2q-E1l7dKWZL05u2g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>420468495799</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jakubapola.cantwait28</string>
+	<key>PROJECT_ID</key>
+	<string>nadchodzace-wydarzenia</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nadchodzace-wydarzenia.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:420468495799:ios:ca4f86f0dee8fc2db40432</string>
+</dict>
+</plist>
