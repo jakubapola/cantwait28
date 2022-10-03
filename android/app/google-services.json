@@ -29,6 +29,13 @@
             {
               "client_id": "420468495799-55qp7pfiag9rsca6e4fmnmrodb5jn3rh.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "420468495799-01m65k2va4qgqu4o5t4fve993itqtnbt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jakubapola.cantwait28"
+              }
             }
           ]
         }
