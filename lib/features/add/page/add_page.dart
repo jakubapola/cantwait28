@@ -76,7 +76,7 @@ class _AddPageState extends State<AddPage> {
                 },
                 selectedDateFormatted: _releaseDate == null
                     ? null
-                    : DateFormat.yMMMEd().format(_releaseDate!),
+                    : DateFormat.yMMMMEEEEd().format(_releaseDate!),
               ),
             );
           },
@@ -138,7 +138,7 @@ class _AddPageBody extends StatelessWidget {
             );
             onDateChanged(selectedDate);
           },
-          child: Text(selectedDateFormatted ?? 'Choose release date'),
+          child: Text(selectedDateFormatted ?? 'Select Date'),
         ),
       ],
     );
